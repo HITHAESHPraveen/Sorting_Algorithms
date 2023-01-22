@@ -1,3 +1,3 @@
 # SORTING ALGORITHMS
 
-Some Description.
+Some Description on Sorting Algorithms
